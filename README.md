@@ -6,7 +6,8 @@ Difficulty Extra Hard 😭: Only use Hints 1 & 2 to complete the project.
 Difficulty Expert 🤯: Only use Hint 1 to complete the project.
 
 ############### Our Blackjack House Rules #####################
- The deck is unlimited in size. 
+
+The deck is unlimited in size. 
 There are no jokers. 
 The Jack/Queen/King all count as 10.
 The the Ace can count as 11 or 1.
@@ -18,6 +19,7 @@ The computer is the dealer.
 
 
 ##################### Hints #####################
+
 Hint 1: 
 Go to this website and try out the Blackjack game: https://games.washingtonpost.com/games/blackjack/
 Then try out the completed Blackjack project here: http://blackjack-final.appbrewery.repl.run
