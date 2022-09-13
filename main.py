@@ -1,5 +1,5 @@
 
-from replit import clear
+#from replit import clear
 from art import logo
 import random
 
